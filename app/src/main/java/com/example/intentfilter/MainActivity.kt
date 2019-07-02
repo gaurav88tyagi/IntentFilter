@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
 
         btnBrowse.setOnClickListener {
 
-//            val intent = Intent(Intent.ACTION_VIEW, Uri.parse(etWebUrl.text.toString()))
+//            val intent = Intent(Intent.ACTION_VIEW, Uri.parse(etWebUrl.text.toString()))            // VIEW, DIAL, SEND, EDIT <- common intents
 //
 //            try {
 //
